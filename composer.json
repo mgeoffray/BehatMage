@@ -5,6 +5,7 @@
     "keywords": ["behat","bdd","magento"],
     "homepage": "https://github.com/MageTest/BehatMage",
     "license": "MIT",
+    "version": "1.0.0",
     "require": {
         "php": "~5.3|~5.5|~7.0",
         "behat/behat": "~3",

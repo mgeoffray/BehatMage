@@ -5,13 +5,14 @@
     "keywords": ["behat","bdd","magento"],
     "homepage": "https://github.com/MageTest/BehatMage",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "require": {
         "php": "~5.3|~5.5|~7.0",
         "behat/behat": "~3",
         "behat/mink-extension": "~2",
         "behat/mink-goutte-driver": "^1.2",
-        "behat/mink-selenium2-driver": "^1.3"
+        "behat/mink-selenium2-driver": "^1.3",
+	"bossa/phpspec2-expect": "^2.3"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.0",
